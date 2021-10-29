@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: []()
--   Live Site URL: []()
+-   Live Site URL: [https://rhythmsaha.github.io/stats-preview-card/](https://rhythmsaha.github.io/stats-preview-card/)
 
 ## My process
 
